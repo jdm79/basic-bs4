@@ -1,3 +1,5 @@
+install [Visual Code here](https://code.visualstudio.com/)
+
 open terminal
 
 ```
