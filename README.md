@@ -2,14 +2,37 @@ install [Visual Code here](https://code.visualstudio.com/)
 
 open terminal and type:
 
-```
-$mkdir pr-scrapes # creates a folder called pr-scrapes
-$cd pr-scrapes # moves into that folder
-$touch app.py # creates a python file called app.py
-$code . # opens everything in this folder on the code editor
 
+Create a folder called pr-scrapes
+```
+$mkdir pr-scrapes
+```
+
+Go into that folder
+```
+$cd pr-scrapes
+```
+
+Create a python file called app.py
+```
+$touch app.py
+```
+
+Open everything in this folder on the code editor
+```
+$code .
+```
+
+Install the two libraries we will be using:
+
+Requests will make the HTTP request to the website we want to scrape
+```
 $pip install requests
-$ pip install beautifulsoup4
+```
+
+BeautifulSoup parses the returned HTML and allows us to play with the text (string)
+```
+$pip install beautifulsoup4
 ```
 
 now you have everything ready to make a scrape
