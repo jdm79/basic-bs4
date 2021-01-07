@@ -1,6 +1,14 @@
-install [Visual Code here](https://code.visualstudio.com/)
+*Basic intro to web scraping with Python and BeautifulSoup
 
-open terminal and type:
+**Install a code editor (preferably Visual Code) 
+
+Install [Visual Code here](https://code.visualstudio.com/)
+
+
+**Terminal commands
+
+Now open your terminal (I use iTerm with zshrc) and type the following commands below:
+
 
 
 Create a folder called pr-scrapes
@@ -23,7 +31,10 @@ Open everything in this folder on the code editor
 $code .
 ```
 
-Install the two libraries we will be using:
+Click on app.py file and copy and paste in the code which is in this app.py on my repository.
+
+
+Install the two libraries we will be using on your terminal (you can use the terminal on Visual Code by pressing ~ and ctrl at the same time):
 
 Requests will make the HTTP request to the website we want to scrape
 ```
@@ -43,4 +54,4 @@ to run the code in your terminal:
 $python app.py
 ```
 
-the scraped HTML page will be returned in your terminal
+The scraped HTML page will be returned in your terminal. Have a look at the div tags and see where the information you want to scrape is. These are the tags we will target in the next little scrape.
