@@ -1,4 +1,4 @@
-install Visual Code here
+install [Visual Code here](https://code.visualstudio.com/)
 
 open terminal and type:
 
