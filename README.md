@@ -1,15 +1,13 @@
-*Basic intro to web scraping with Python and BeautifulSoup
+# Basic intro to web scraping with Python and BeautifulSoup
 
-**Install a code editor (preferably Visual Code) 
+Install a code editor (preferably Visual Code) 
 
 Install [Visual Code here](https://code.visualstudio.com/)
 
 
-**Terminal commands
+## Terminal commands
 
 Now open your terminal (I use iTerm with zshrc) and type the following commands below:
-
-
 
 Create a folder called pr-scrapes
 ```
@@ -30,6 +28,8 @@ Open everything in this folder on the code editor
 ```
 $code .
 ```
+
+## On Visual Code Editor 
 
 Click on app.py file and copy and paste in the code which is in this app.py on my repository.
 
