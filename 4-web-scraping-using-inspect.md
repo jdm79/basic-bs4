@@ -10,3 +10,5 @@ One of the best ways to identify where to target HTML tags (on Chrome anyway) is
   
   When you hover over the different divs in 'elements' you will see on the left on the website itself 
   what you are hovering over.
+
+[Previous page](https://github.com/jdm79/basic-bs4/blob/main/3-web-scraping-exercise-1.md)
