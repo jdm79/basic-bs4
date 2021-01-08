@@ -6,7 +6,7 @@ just the bare minimum to get going.
 
 
 
-# Getting started
+## Getting started
 
 I'm using a MacBook Pro 2014 with Visual Code Studio editor and iTerm terminal as my command line. Any code editor will do, as well as terminal. If you are on Windows, I can try and find the set-up for that, but I have almost zero experience coding on a Windows PC.
 
