@@ -1,3 +1,9 @@
+Here we target the exact part of the HTML we want to grab. This can take a bit of trial and error. Sometimes divs are nested inside more divs, until it's hard to see where anything really is. Sometimes it's not so bad.
+
+
+
+Loop over the array, sort the issues alphabetically and create a string which separates each issue with a comma and space.
+
 The scraped HTML page will be returned in your terminal. 
 
 Have a look at the div tags and see where the information you want to scrape is. 
