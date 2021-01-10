@@ -47,4 +47,6 @@ to run the code in your terminal:
 ```
 $python app-1.py
 ```
+
+
 [Previous page](https://github.com/jdm79/basic-bs4/blob/main/2-web-scraping-set-up.md) [Next page](https://github.com/jdm79/basic-bs4/blob/main/4-web-scraping-using-inspect.md)
