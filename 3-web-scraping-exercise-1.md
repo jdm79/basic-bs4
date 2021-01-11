@@ -63,7 +63,7 @@ You should see the entire HTML of the web page in the terminal. It's huge. It's 
 ```
 $python app-2.py
 ```
-![alt text](https://github.com/jdm79/basic-bs4/blob/main/list-titles.png?raw=true)
+![alt text](https://github.com/jdm79/basic-bs4/blob/main/img/list-titles.png?raw=true)
 
 
 This should give us a simple list in the terminal. With this code, we've requested the HTML from the web page, turned it into something we can work with in Python, cleaned it up and printed it out. This is just a taster of what we can do with web scraping, but it's important to see how it works at a basic level before moving on to more complex scripts.
