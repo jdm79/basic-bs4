@@ -1,5 +1,11 @@
 # How to find what you want from an HTML page
 
+## Index
+  1. [Intro](https://github.com/jdm79/basic-bs4/blob/main/1-web-scraping-intro.md)
+  2. [Setting up and installing the tools](https://github.com/jdm79/basic-bs4/blob/main/2-web-scraping-set-up.md)
+  3. [The webs scraping exercise](https://github.com/jdm79/basic-bs4/blob/main/3-web-scraping-exercise-1.md)
+  4. [Using inspect with Chrome](https://github.com/jdm79/basic-bs4/blob/main/4-web-scraping-using-inspect.md)
+
 One of the best ways to identify where to target HTML tags (on Chrome anyway) is to right-click inspect
 and browse the 'elements' section and hover over, click and search through the different tags to see where
 the information you want is. 

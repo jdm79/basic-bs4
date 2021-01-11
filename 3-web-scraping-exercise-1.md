@@ -1,6 +1,12 @@
 
 # Setting up the folder and files for this project
 
+## Index
+  1. [Intro](https://github.com/jdm79/basic-bs4/blob/main/1-web-scraping-intro.md)
+  2. [Setting up and installing the tools](https://github.com/jdm79/basic-bs4/blob/main/2-web-scraping-set-up.md)
+  3. [The webs scraping exercise](https://github.com/jdm79/basic-bs4/blob/main/3-web-scraping-exercise-1.md)
+  4. [Using inspect with Chrome](https://github.com/jdm79/basic-bs4/blob/main/4-web-scraping-using-inspect.md)
+
 On your terminal (I use iTerm with zshrc), type the following commands below which are in the light blue background:
 
 In order to create a folder called pr-scrapes

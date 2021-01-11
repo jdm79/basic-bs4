@@ -1,5 +1,11 @@
 # Set-up
 
+## Index
+  1. [Intro](https://github.com/jdm79/basic-bs4/blob/main/1-web-scraping-intro.md)
+  2. [Setting up and installing the tools](https://github.com/jdm79/basic-bs4/blob/main/2-web-scraping-set-up.md)
+  3. [The webs scraping exercise](https://github.com/jdm79/basic-bs4/blob/main/3-web-scraping-exercise-1.md)
+  4. [Using inspect with Chrome](https://github.com/jdm79/basic-bs4/blob/main/4-web-scraping-using-inspect.md)
+
 Before we start any coding, we need to make sure we have all the correct tools. Setting up anything in coding is often half the battle.
 
 First we need to install a code editor (preferably Visual Code). If you already have one and use it, etc: great. If not: install [Visual Code here](https://code.visualstudio.com/)
