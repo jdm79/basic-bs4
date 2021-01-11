@@ -20,7 +20,7 @@ I'm on 3.9.0 but anything with over 3 is good for this. Because Python 2 is stil
 
 If nothing comes up when you check python3 version, you will need to download python3 [here](https://www.python.org/downloads/). Once downloaded and set up, check the version as shown above before moving on.
 
-The next thing we will need is [pip](https://pip.pypa.io/en/stable/). This is the python package manager which we use to install packages/libraries we want to use in projects. Libraries are pre-written code by expert geeks which will do a lot of the heavy lifting for us, meaning we only need to import the library and read the documentation to see what their methods do. CHeck if you have pip already by typing the following in your terminal:
+The next thing we will need is [pip](https://pip.pypa.io/en/stable/). This is the Python package manager which we use to install packages/libraries we want to use in projects. Libraries are pre-written code by expert geeks which will do a lot of the heavy lifting for us, meaning we only need to import the library and read the documentation to see what their methods do. Check if you have pip already by typing the following in your terminal:
 ```
 $pip --version
 ```
