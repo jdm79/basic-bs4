@@ -1,9 +1,9 @@
 
 # Setting up the folder and files for this project
 
-On your terminal (I use iTerm with zshrc), type the following commands below:
+On your terminal (I use iTerm with zshrc), type the following commands below which are in the light blue background:
 
-Create a folder called pr-scrapes
+In order to create a folder called pr-scrapes
 ```
 $mkdir pr-scrapes
 ```
