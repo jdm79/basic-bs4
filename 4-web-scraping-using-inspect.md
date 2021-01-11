@@ -1,3 +1,5 @@
+# How to find what you want from an HTML page
+
 One of the best ways to identify where to target HTML tags (on Chrome anyway) is to right-click inspect
 and browse the 'elements' section and hover over, click and search through the different tags to see where
 the information you want is. 
