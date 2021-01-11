@@ -11,6 +11,8 @@ On your terminal type (but don't type the dollar sign - type everything after th
 ```
 $python --version
 ```
+![alt text](https://github.com/jdm79/basic-bs4/blob/main/img/python-version.png?raw=true)
+
 
 If it is something like 2.7.16, type the following on your terminal:
 ```
@@ -24,6 +26,8 @@ The next thing we will need is [pip](https://pip.pypa.io/en/stable/). This is th
 ```
 $pip --version
 ```
+![alt text](https://github.com/jdm79/basic-bs4/blob/main/img/pip-version.png?raw=true)
+
 
 If this doesn't work, try:
 ```
