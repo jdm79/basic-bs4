@@ -6,4 +6,8 @@ For this exercise we just want to scrape the titles of the latest published arti
 
 ![alt text](https://github.com/jdm79/basic-bs4/blob/main/img/ons-list.png?raw=true)
 
+We will scrape this page and print it out on our terminal, as below:
+
+![alt text](https://github.com/jdm79/basic-bs4/blob/main/img/list-titles.png?raw=true)
+
 [Next page](https://github.com/jdm79/basic-bs4/blob/main/2-web-scraping-set-up.md)
