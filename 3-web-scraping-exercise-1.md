@@ -48,7 +48,9 @@ BeautifulSoup parses the returned HTML and allows us to play with the text (stri
 $pip install beautifulsoup4
 ```
 
-now you have everything ready to make a scrape
+now you have everything ready to make a scrape.
+
+I've written comments in the two code files which explain what's going on at each step of the way. These are definitely worth reading to understand what everything does.
 
 to run the code in your terminal:
 
@@ -61,8 +63,10 @@ You should see the entire HTML of the web page in the terminal. It's huge. It's 
 ```
 $python app-2.py
 ```
+![alt text](https://github.com/jdm79/basic-bs4/blob/main/list-titles.png?raw=true)
+
 
 This should give us a simple list in the terminal. With this code, we've requested the HTML from the web page, turned it into something we can work with in Python, cleaned it up and printed it out. This is just a taster of what we can do with web scraping, but it's important to see how it works at a basic level before moving on to more complex scripts.
 
 
-[Previous page](https://github.com/jdm79/basic-bs4/blob/main/2-web-scraping-set-up.md) [Next page](https://github.com/jdm79/basic-bs4/blob/main/4-web-scraping-using-inspect.md)
+[Previous page](https://github.com/jdm79/basic-bs4/blob/main/2-web-scraping-set-up.md)   [Next page](https://github.com/jdm79/basic-bs4/blob/main/4-web-scraping-using-inspect.md)

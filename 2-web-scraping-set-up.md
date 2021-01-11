@@ -36,4 +36,4 @@ $brew install pip3
 ```
 
 
-[Previous page](https://github.com/jdm79/basic-bs4/blob/main/1-web-scraping-intro.md) [Next page](https://github.com/jdm79/basic-bs4/blob/main/3-web-scraping-exercise-1.md)
+[Previous page](https://github.com/jdm79/basic-bs4/blob/main/1-web-scraping-intro.md)   [Next page](https://github.com/jdm79/basic-bs4/blob/main/3-web-scraping-exercise-1.md)
