@@ -4,4 +4,6 @@ For this exercise we want to write a Python script that visits the [Office for N
 
 For this exercise we just want to scrape the titles of the latest published articles/stats docs.
 
+![alt text](https://github.com/jdm79/basic-bs4/blob/main/img/ons-list.png?raw=true)
+
 [Next page](https://github.com/jdm79/basic-bs4/blob/main/2-web-scraping-set-up.md)
