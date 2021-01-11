@@ -16,20 +16,16 @@ If it is something like 2.7.16, type the following on your terminal:
 ```
 $python3 --version
 ```
-I'm on 3.9.0 but anything with over 3 is good for this. Because Python 2 is still around on some machines, you might have to type:
+I'm on 3.9.0 but anything with over 3 is good for this. Because Python 2 is still around on some machines, you might have to type python3 rather than python. This will use Python 3 to run/install things. In newer Macs this might not be an issue, but the best way to check is by trying both.
 
-```
-$python3 app-1.py
-```
+If nothing comes up when you check python3 version, you will need to download python3 [here](https://www.python.org/downloads/). Once downloaded and set up, check the version as shown above before moving on.
 
-This will use Python 3 to run/install things. In newer Macs this might not be an issue, but the best way to check is by trying both.
-
-The next thing we will need is Pip. Type the following in your terminal:
+The next thing we will need is [pip](https://pip.pypa.io/en/stable/). This is the python package manager which we use to install packages/libraries we want to use in projects. Libraries are pre-written code by expert geeks which will do a lot of the heavy lifting for us, meaning we only need to import the library and read the documentation to see what their methods do. CHeck if you have pip already by typing the following in your terminal:
 ```
 $pip3 --version
 ```
 
-I have version 20.3.3. As long as it's around that, it's fine. If you do not have pip, you will need to install it by typing the following into your terminal (using Homebrew):
+I have version 20.3.3. As long as it's around that, it's fine. If you have a Mac, it should have come with Python. If you do not have pip, you will need to install it by typing the following into your terminal (using Homebrew):
 ```
 $brew install pip3
 ```
