@@ -6,5 +6,8 @@ It's a very basic intro to web scraping using [Python](https://www.python.org/) 
 
 For now we will only be using two libraries - requests (to make the HTTP request to the target website to grab the HTML) and bs4 (BeautifulSoup - to take what we want from the returned HTML, clean it up and so on).
 
+![alt text](https://github.com/jdm79/basic-bs4/blob/main/img/list-titles.png?raw=true)
+
+
 
 [How to use this code](https://github.com/jdm79/basic-bs4/blob/main/1-web-scraping-intro.md)
