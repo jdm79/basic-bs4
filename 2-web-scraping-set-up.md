@@ -1,15 +1,12 @@
 # Set-up
 
-Setting up anything in coding is often half the battle.
+Before we start any coding, we need to make sure we have all the correct tools. Setting up anything in coding is often half the battle.
 
-Install a code editor (preferably Visual Code).
-
-Install [Visual Code here](https://code.visualstudio.com/)
+First we need to install a code editor (preferably Visual Code). If you already have one and use it, etc: great. If not: install [Visual Code here](https://code.visualstudio.com/)
 
 To open your terminal, press CMD and spacebar together and type 'terminal', then open it up.
 
-On your terminal type:
-(Don't type the dollar sign - that's already there on the terminal. type everything after the $)
+On your terminal type (but don't type the dollar sign - type everything after the $):
 
 ```
 $python --version

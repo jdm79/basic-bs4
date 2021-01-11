@@ -19,7 +19,7 @@ soup = BeautifulSoup(page.text, "html.parser")
 # and grab the data from inside it. We're getting closer to what we want.
 # This will still be HTML though
 results_html = soup.find_all('a', class_='gem-c-document-list__item-title')
-print(results_html)
+# print(results_html)
 
 # this creates an empty Python list, which we will fill below with titles
 title_list = []
