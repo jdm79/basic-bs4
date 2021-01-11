@@ -10,11 +10,11 @@
 
 In this tutorial we want to write a Python script that visits the [Office for National Statistics (ONS) research and statistics page](https://www.gov.uk/search/research-and-statistics). This is a constantly updated list of articles and datasets. Publications, institutes, academics and private companies jump on these as soon as they come out, to make data graphics, find stories, obtain specific data etc. Whatever. 
 
-For this exercise we just want to scrape the titles of the latest published articles/stats docs.
+For this exercise we just want to scrape the titles of the latest published articles/stats docs. Below is that page that we will be scraping, targeting specifically the titles of the documents in the list - the first one being 'Trade and investment core statistics book'.
 
-In the code I've written comments which explain what everything is doing.
 
 ![alt text](https://github.com/jdm79/basic-bs4/blob/main/img/ons-list.png?raw=true)
+
 
 We will scrape this page and print it out on our terminal, as below:
 
