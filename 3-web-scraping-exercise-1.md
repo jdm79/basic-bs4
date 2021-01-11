@@ -1,7 +1,7 @@
 
 # Setting up the folder and files for this project
 
-On your terminal (I use iTerm with zshrc) and type the following commands below:
+On your terminal (I use iTerm with zshrc), type the following commands below:
 
 Create a folder called pr-scrapes
 ```
@@ -18,7 +18,15 @@ Create the two python files we will be using in this tutorial by typing:
 $touch app-1.py app-2.py
 ```
 
-Open everything in this folder on the code editor
+Check that these files are created by typing in your terminal:
+```
+$ls
+```
+
+You should see two files in your directory.
+
+
+Now open everything in this folder on the code editor
 ```
 $code .
 ```
