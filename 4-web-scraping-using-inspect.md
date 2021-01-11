@@ -1,3 +1,5 @@
+# Basic intro to web scraping for journalists
+
 ## Index
   1. [Intro](https://github.com/jdm79/basic-bs4/blob/main/1-web-scraping-intro.md)
   2. [Setting up and installing the tools](https://github.com/jdm79/basic-bs4/blob/main/2-web-scraping-set-up.md)
